@@ -1,3 +1,2 @@
-# Final-Project
+# Costa Mesa Restaurant Portal
 
-Restaurant Hub
